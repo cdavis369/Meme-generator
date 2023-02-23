@@ -1,0 +1,81 @@
+
+
+body {
+  background-color: black;
+}
+
+.button {
+  width: 100%;
+  background-color: red;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+.submit {
+  width: 100%;
+  background-color: green;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.generator {
+  margin: 20px auto;
+  width: 400px;
+}
+
+#inputFile {
+  background-color: white;
+}
+.library {
+  width: 100%;
+  text-align: center;
+}
+
+.savedMeme {
+  margin: 10px;
+  width: 400px;
+  display: inline-block;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px auto;
+  width: 400px;
+  color: white;
+}
+
+form {
+  border-radius: 2px;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+label {
+  color: white;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+p {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.meme {
+  width: 400px;
+}
+
+/* .library {
+  margin: 20px auto;
+  width: 400px;
+  font-family:'Courier New', Courier, monospace;
+}  */
+
+
